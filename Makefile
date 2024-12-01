@@ -1,6 +1,6 @@
-all:
+push:
 	git add .
 	git commit -m main
 	git push
-down:
+pull:
 	git pull

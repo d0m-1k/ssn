@@ -3,3 +3,4 @@
 [C# - Визуал](https://github.com/d0m-1k/ssn/blob/main/code/002.cs)\
 [C# - Обработчик клавиш](https://github.com/d0m-1k/ssn/blob/main/code/003.cs)\
 [Python - GDI эффекты](https://github.com/d0m-1k/ssn/blob/main/code/004.py)
+[Значек в трей](https://github.com/d0m-1k/ssn/blob/main/code/005.cs)

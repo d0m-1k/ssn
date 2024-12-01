@@ -1,7 +1,4 @@
 ---
-
----
----
 ### Блокировка диспетчера задач
 ##### Путь:`HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System`
 ##### Значение: `DisableTaskMgr: DWORD = 1`

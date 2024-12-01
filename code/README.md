@@ -1,4 +1,5 @@
 # Части кода
 [C# - Выключение пк при нажатии Alt+F4](https://github.com/d0m-1k/ssn/blob/main/code/001.cs)\
 [C# - Визуал](https://github.com/d0m-1k/ssn/blob/main/code/002.cs)\
-[C# - Обработчик клавиш](https://github.com/d0m-1k/ssn/blob/main/code/003.cs)
+[C# - Обработчик клавиш](https://github.com/d0m-1k/ssn/blob/main/code/003.cs)\
+[Python - Обработчик клавиш](https://github.com/d0m-1k/ssn/blob/main/code/004.py)

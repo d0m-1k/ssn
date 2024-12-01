@@ -4,3 +4,4 @@
 [Создание дистрибутива Linux (debootstrap)](https://habr.com/ru/articles/147522/)\
 [Создание hello world драйвкра](https://learn.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/writing-a-very-small-kmdf--driver)\
 [Создание драйвера](https://habr.com/ru/articles/761512/)
+[Изменение exe файла](https://www.carifred.com/fvie/)

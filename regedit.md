@@ -31,9 +31,9 @@
 ---
 ### Ассоциации файлов
 ##### Путь: `HKEY_CLASSES_ROOT\.myexe`
-##### Значение: `default: path = "C:\\path\to\file.exe"`
+##### Значение: `default: String = "C:\\path\to\file.exe"`
 ---
 ### Блокировка программ
 ##### Путь: `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\currentversion\file.name`
-##### Значение: `debugger: str = "NNN"`
+##### Значение: `debugger: String = "NNN"`
 ---

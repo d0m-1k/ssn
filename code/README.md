@@ -4,5 +4,6 @@
 [C# - Обработчик клавиш](https://github.com/d0m-1k/ssn/blob/main/code/003.cs)\
 [Py - GDI эффекты](https://github.com/d0m-1k/ssn/blob/main/code/004.py)\
 [C# - Значек в трей](https://github.com/d0m-1k/ssn/blob/main/code/005.cs)\
-[c# - Regedit](https://github.com/d0m-1k/ssn/blob/main/code/006.cs)\
+[C# - Regedit](https://github.com/d0m-1k/ssn/blob/main/code/006.cs)\
+[C# - Запуск программ](https://github.com/d0m-1k/ssn/blob/main/code/007.cs)\
 [ ]( )
